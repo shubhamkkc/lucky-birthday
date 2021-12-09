@@ -1,0 +1,67 @@
+body{
+    background-color: #a6c5f5;
+}
+.container{
+    text-align: center;
+}
+.heading{
+    background-color: #000000;
+    color: white;
+    border-style: dashed;
+    border-radius: 2rem;
+    padding: 1rem;
+    width: 80%;
+    margin: auto;
+}
+.input-label{
+    font-size: 30px;
+    display: block;
+    font-weight: 600;
+    padding-top: 1rem;
+}
+#d-o-b{
+    font-size: 20px;
+    font-weight: bold;
+    outline: #f7e4c4;
+    border: 2px solid #daceba;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    padding: 0.5rem 2rem;
+    max-width: 250px;
+}
+#lucky{
+    font-size: 20px;
+    font-weight: bold;
+    outline: #000000;
+    border: 2px solid #e9dbc3;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    padding: 0.5rem 2rem;
+    max-width: 250px;
+}
+#check-button{
+    display: block;
+    font-size: 25px;
+    background-color: #000000;
+    color: rgb(216, 174, 174);
+    padding: 0.5rem;
+    margin: 1rem auto 1rem;
+    border-radius: 1rem;
+    border:none;
+    cursor: pointer;
+    border-style: outset;
+}
+#check-button:hover{
+    color: black;
+}
+#output{
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    outline: #f5deb7;
+    border-radius: 0.5rem;
+    border: 2px solid #ffe4b4;
+    margin: auto;
+    padding: 1rem 2rem;
+    max-width: 250px;
+}
